@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on M365
-- Link to [Gogle](www.google.com)
+- Link to [My LinkedIn Profile](https://www.linkedin.com/in/maheshmarthi/)
